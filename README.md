@@ -11,7 +11,7 @@
 
 <div align="left">
 
-<img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="200"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=360&height=200&lines=clarisse+victoria;clari;computer+science;continuing+sophomore;university+of+the+philippines+los+ba%C3%B1os">
+<img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="200"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=360&height=170&lines=clarisse+victoria;clari;computer+science;continuing+sophomore;university+of+the+philippines+los+ba%C3%B1os">
 
 <img src="https://github.com/user-attachments/assets/4f6a421b-b290-4762-a8bf-e21fb2efa8bd" width="280" align="right"/>
 
@@ -23,7 +23,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&size=22&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=570&height=135&lines=i'm+currently+working+on%3A+web+programming;i'm+currently+learning%3A+100%2C+124%2C+125%2C+and+150;ask+me+about%3A+svelte%2C+tailwind+css%2C+or+adobe;fun+fact%3A+i+enjoy+creating+art%2C+both+digitally+and+traditionally)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=590&height=125&lines=i'm+currently+working+on%3A+web+programming;i'm+currently+learning%3A+100%2C+124%2C+125%2C+and+150;ask+me+about%3A+svelte%2C+tailwind+css%2C+or+adobe+photoshop;fun+fact%3A+i+enjoy+creating+art%2C+both+digitally+and+traditionally)](https://git.io/typing-svg)
 
 
 ---
