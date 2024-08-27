@@ -23,7 +23,7 @@
 
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=380&height=125&lines=i'm+currently+working+on%3A+project+f.a.c.e.;i'm+currently+learning%3A+github;ask+me+about%3A+svelte%2C+tailwind+css%2C+or+adobe;fun+fact%3A+i+enjoy+creating+art+%5E%5E)](https://git.io/typing-svg)
+<img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="25"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=380&height=125&lines=i'm+currently+working+on%3A+project+f.a.c.e.;i'm+currently+learning%3A+github;ask+me+about%3A+svelte%2C+tailwind+css%2C+or+adobe;fun+fact%3A+i+enjoy+creating+art+%5E%5E)](https://git.io/typing-svg)
 
 
 ---
