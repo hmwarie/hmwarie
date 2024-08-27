@@ -1,24 +1,24 @@
 <div align="center">
+  
 <!-- <img src="https://svg-banners.vercel.app/api?type=luminance&text1=clarisse&width=400&height=250" alt="clarisse"/> <br> -->
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=ADD8E6&center=true&width=435&height=60&repeat=false&lines=hmwarie;clari" alt="name"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&repeat=false&lines=hmwarie;clari" alt="name"/>
 
 <img src="https://c.tenor.com/exuPwTTU-FwAAAAC/key-click-typing.gif" width="400"/> </a>  
 
 <img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=computer+science+student;continuing+sophomore;university+of+the+philippines;los+baños+campus;" alt="bio" />
 
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hmwarie&label=Profile%20views&color=0e75b6&style=flat" alt="hmwarie" /> </p>
 
 </div>
-
-- 🔭 I’m currently working on: Web Programming
-- 🌱 I’m currently learning: Programming Languages, Operating Systems, and Web Programming
-- 💬 Ask me about: Svelte, Tailwind CSS, or Adobe Photoshop
-- ⚡ Fun fact: I enjoy creating art, both digitally and traditionally
+  
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=ADD8E6&width=400&length=10&lines=i'm+currently+working+on:;web+programming;" alt="me" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=ADD8E6&width=400&length=10&lines=i'm+currently+learning:;programming+languages;operating+systems;web+programming;numeric+and+symbolic+computation;" alt="me" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=ADD8E6&width=400&length=10&lines=ask+me+about:;svelte;tailwind+css;adobe+photoshop;" alt="me" />
+<img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=ADD8E6&width=400&length=10&lines=fun+fact:;i+enjoy+creating+art;both+digitally+and+traditionally" alt="me" />
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&height=35&lines=connect+with+me;" alt="connect with me"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=00FFFF&center=true&repeat=false&width=435&height=35&lines=connect+with+me;" alt="connect with me"/>
 <p>
   <img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white"/>
   <img alt="fb" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white"/>
@@ -28,7 +28,7 @@
   <img alt="x" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=FFFFFF&center=true&repeat=false&width=435&height=35&lines=designs+/+ides+/+languages+/+tools;" alt="designs, ides, languages, tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=00FFFF&center=true&repeat=false&width=435&height=35&lines=designs+/+ides+/+languages+/+tools;" alt="designs, ides, languages, tools"/>
 <p>
   <img alt="aae" src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665"/>
   <img alt="ali" src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobe%20illustrator&logoColor=white"/>
@@ -54,6 +54,7 @@
   <img alt="r" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"/>
 </p>
 
+---
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hmwarie&show_icons=true&locale=en" alt="hmwarie" /></p>
 
 </div>
