@@ -13,7 +13,7 @@
 
 <img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="200"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=360&height=170&lines=clarisse+victoria;clari;computer+science;continuing+sophomore;university+of+the+philippines+los+ba%C3%B1os">
 
-<img src="https://github.com/user-attachments/assets/4f6a421b-b290-4762-a8bf-e21fb2efa8bd" width="280" align="right"/>
+<img src="https://github.com/user-attachments/assets/4f6a421b-b290-4762-a8bf-e21fb2efa8bd" width="290" align="right"/>
 
 </div>
 
