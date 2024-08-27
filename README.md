@@ -29,7 +29,7 @@
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=00FFFF&center=true&repeat=false&width=435&height=35&lines=connect+with+me;" alt="connect with me"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=FEBE00&center=true&repeat=false&width=435&height=35&lines=connect+with+me;" alt="connect with me"/>
 <p>
   <img alt="discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white" href="https://discord.com/users/365393282978807808"/>
   <img alt="fb" src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" href="https://www.facebook.com/claririi/"/>
@@ -39,7 +39,7 @@
   <img alt="x" src="https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white" href="https://x.com/hmwarie"/>
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=00FFFF&center=true&repeat=false&width=435&height=35&lines=designs+/+ides+/+languages+/+tools;" alt="designs, ides, languages, tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=25&pause=1000&color=FEBE00&center=true&repeat=false&width=435&height=35&lines=designs+/+ides+/+languages+/+tools;" alt="designs, ides, languages, tools"/>
 <p>
 
   <img alt="aae" src="https://img.shields.io/badge/Adobe%20After%20Effects-CF96FD?logo=Adobe%20After%20Effects&logoColor=393665"/>
