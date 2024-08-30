@@ -14,7 +14,7 @@
 
 <div align="left">
 
-<!-- profile picture, text -->
+<!-- profile picture, space, text -->
 <img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="200"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=360&height=170&lines=jan+clarisse+victoria;clari;computer+science;continuing+sophomore;university+of+the+philippines+los+ba%C3%B1os">
 
 <!-- right picture -->
@@ -29,7 +29,7 @@
 
 </div>
 
-<!-- text -->
+<!-- space, text -->
 <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="25"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=380&height=125&lines=i'm+currently+working+on%3A+project+f.a.c.e.;i'm+currently+learning%3A+github;ask+me+about%3A+svelte%2C+tailwind+css%2C+or+adobe;fun+fact%3A+i+enjoy+creating+art+%5E%5E)](https://git.io/typing-svg)
 
 
@@ -75,7 +75,6 @@
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
   <img alt="r" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"/>
 </p>
-
 
 ---
 
