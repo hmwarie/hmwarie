@@ -30,7 +30,7 @@
 </div>
 
 <!-- space, text -->
-<img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="25"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=520&height=170&lines=i'm+currently+workking+on%3A+project+f.a.c.e.;i'm+currently+learning%3A+github;personal+projects%3A+soon+%5E%5E;ask+me+about%3A+adobe+photoshop;hobbies%3A+singing%2C+drawing%2C+and+reading+fiction;fun+fact%3A+i+like+creating+art%2C+both+digitally+and+traditionally)](https://git.io/typing-svg)
+<img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="25"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=520&height=170&lines=i'm+currently+working+on%3A+project+f.a.c.e.;i'm+currently+learning%3A+github;personal+projects%3A+soon+%5E%5E;ask+me+about%3A+adobe+photoshop;hobbies%3A+singing%2C+drawing%2C+and+reading+fiction;fun+fact%3A+i+like+creating+art%2C+both+digitally+and+traditionally)](https://git.io/typing-svg)
 
 
 ---
