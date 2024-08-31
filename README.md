@@ -5,17 +5,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&lines=welcome,+developers!" alt="name"/> <br>
 
 <!-- sunflower -->
-<img src="https://github.com/user-attachments/assets/68d9caff-ee6b-41c8-abff-2badc2573f88" width="80" align="left"/>
+<img src="https://github.com/user-attachments/assets/68d9caff-ee6b-41c8-abff-2badc2573f88" width="70" align="left"/>
 
 <!-- eevee -->
-<img src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" width="100" align="right"/>
+<img src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" width="80" align="right"/>
 
 ---
 
 <div align="left">
 
 <!-- profile picture, space, text -->
-<img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="200"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=360&height=170&lines=jan+clarisse+victoria;clari;computer+science;continuing+sophomore;university+of+the+philippines+los+ba%C3%B1os">
+<img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="150"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=360&height=170&lines=jan+clarisse+victoria;clari;computer+science;continuing+sophomore;university+of+the+philippines+los+ba%C3%B1os">
 
 <!-- right picture -->
 <img src="https://github.com/user-attachments/assets/4f6a421b-b290-4762-a8bf-e21fb2efa8bd" width="315" align="right"/>
@@ -23,7 +23,7 @@
 </div>
 
 <!-- sunflower -->
-<img src="https://github.com/user-attachments/assets/317bd158-58c7-44fb-a08f-1ced81c64ace" width="80" align="right"/>
+<img src="https://github.com/user-attachments/assets/317bd158-58c7-44fb-a08f-1ced81c64ace" width="70" align="right"/>
 
 --- 
 
@@ -83,4 +83,4 @@
 </div>
 
 <!-- eevee -->
-<img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/eevee.gif" width="100" align="left"/>
+<img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/eevee.gif" width="80" align="left"/>
