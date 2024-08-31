@@ -15,7 +15,7 @@
 <div align="left">
 
 <!-- profile picture, space, text -->
-<img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="150"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=200&height=170&lines=jan+clarisse+victoria;clari;computer+science;continuing+sophomore;up+los+ba%C3%B1os">
+<img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="150"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=200&height=170&lines=++jan+clarisse+victoria;clari;computer+science;continuing+sophomore;up+los+ba%C3%B1os">
 
 <!-- right picture -->
 <img src="https://github.com/user-attachments/assets/4f6a421b-b290-4762-a8bf-e21fb2efa8bd" width="315" align="right"/>
@@ -37,13 +37,13 @@
 <div align="center">
   
 <!-- text -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=FEBE00&center=true&repeat=false&width=400&height=35&lines=connect+with+me;" alt="connect with me"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=FEBE00&center=true&repeat=false&width=100&height=35&lines=connect+with+me;" alt="connect with me"/>
 
 <!-- badges -->
 [![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/365393282978807808) [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/claririi/) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hmwarie/) [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janclarissevictoria/) [![X Badge](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/hmwarie/)
 
 <!-- text -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=FEBE00&center=true&repeat=false&width=400&height=35&lines=designs+/+ides+/+languages+/+tools;" alt="designs, ides, languages, tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=FEBE00&center=true&repeat=false&width=250&height=35&lines=designs+/+ides+/+languages+/+tools;" alt="designs, ides, languages, tools"/>
 <p>
 
 <!-- badges -->
