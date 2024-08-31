@@ -5,17 +5,17 @@
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&lines=welcome,+developers!" alt="name"/> <br>
 
 <!-- sunflower -->
-<img src="https://github.com/user-attachments/assets/68d9caff-ee6b-41c8-abff-2badc2573f88" width="70" align="left"/>
+<img src="https://github.com/user-attachments/assets/68d9caff-ee6b-41c8-abff-2badc2573f88" width="80" align="left"/>
 
 <!-- eevee -->
-<img src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" width="80" align="right"/>
+<img src="https://img.pokemondb.net/sprites/black-white/anim/normal/eevee.gif" width="100" align="right"/>
 
 ---
 
 <div align="left">
 
 <!-- profile picture, space, text -->
-<img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="150"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=200&height=170&lines=++jan+clarisse+victoria;clari;computer+science;continuing+sophomore;up+los+ba%C3%B1os">
+<img alt="hmwarie" src="https://github.com/user-attachments/assets/1bf4206d-2dc8-422f-bcdd-61f1019988d6" width="200"/> <img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="30"> <img src="https://readme-typing-svg.demolab.com?font=VT323&size=20&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&width=360&height=170&lines=jan+clarisse+victoria;clari;computer+science;continuing+sophomore;university+of+the+philippines+los+ba%C3%B1os">
 
 <!-- right picture -->
 <img src="https://github.com/user-attachments/assets/4f6a421b-b290-4762-a8bf-e21fb2efa8bd" width="315" align="right"/>
@@ -23,27 +23,27 @@
 </div>
 
 <!-- sunflower -->
-<img src="https://github.com/user-attachments/assets/317bd158-58c7-44fb-a08f-1ced81c64ace" width="70" align="right"/>
+<img src="https://github.com/user-attachments/assets/317bd158-58c7-44fb-a08f-1ced81c64ace" width="80" align="right"/>
 
 --- 
 
 </div>
 
 <!-- space, text -->
-<img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="25"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&size=15&color=ADD8E6&vCenter=true&multiline=true&repeat=false&height=170&width=300&lines=i'm+currently+working+on%3A+project+f.a.c.e.;i'm+currently+learning%3A+github;personal+projects%3A+soon+%5E%5E;ask+me+about%3A+adobe+photoshop;hobbies%3A+singing%2C+drawing%2C+and+reading+fiction;fun+fact%3A+i+like+creating+digi+and+tradi+art+%3C3)]()
+<img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="25"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&height=170&lines=i'm+currently+working+on%3A+project+f.a.c.e.;i'm+currently+learning%3A+github;personal+projects%3A+soon+%5E%5E;ask+me+about%3A+adobe+photoshop;hobbies%3A+singing%2C+drawing%2C+and+reading+fiction;fun+fact%3A+i+like+creating+digi+and+tradi+art+%3C3)](https://git.io/typing-svg)
 
 ---
 
 <div align="center">
   
 <!-- text -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=FEBE00&center=true&repeat=false&width=100&height=35&lines=connect+with+me;" alt="connect with me"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FEBE00&center=true&repeat=false&width=435&height=35&lines=connect+with+me;" alt="connect with me"/>
 
 <!-- badges -->
 [![Discord Badge](https://img.shields.io/badge/Discord-%235865F2.svg?&logo=discord&logoColor=white)](https://discord.com/users/365393282978807808) [![Facebook Badge](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/claririi/) [![Instagram Badge](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/hmwarie/) [![LinkedIn Badge](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janclarissevictoria/) [![X Badge](https://img.shields.io/badge/X-%23000000.svg?logo=X&logoColor=white)](https://x.com/hmwarie/)
 
 <!-- text -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=FEBE00&center=true&repeat=false&width=250&height=35&lines=designs+/+ides+/+languages+/+tools;" alt="designs, ides, languages, tools"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=22&pause=1000&color=FEBE00&center=true&repeat=false&width=435&height=35&lines=designs+/+ides+/+languages+/+tools;" alt="designs, ides, languages, tools"/>
 <p>
 
 <!-- badges -->
@@ -83,4 +83,4 @@
 </div>
 
 <!-- eevee -->
-<img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/eevee.gif" width="80" align="left"/>
+<img src="https://img.pokemondb.net/sprites/black-white/anim/back-normal/eevee.gif" width="100" align="left"/>
