@@ -81,7 +81,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hmwarie&label=Profile%20views&color=0e75b6&style=flat" alt="hmwarie" /> </p>
 
 <!-- text -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=FEBE00&center=true&repeat=false&width=435&height=35&lines=rip+mobile+view;" alt="rip mobile view"/>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=ADD8E6&center=true&repeat=false&width=435&height=35&lines=rip+mobile+view;" alt="rip mobile view"/>
 
 </div>
 
