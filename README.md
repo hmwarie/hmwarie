@@ -80,6 +80,9 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2a3fv6oxbcw7kxvk9izm8tabz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=2a3fv6oxbcw7kxvk9izm8tabz&redirect=true)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hmwarie&label=Profile%20views&color=0e75b6&style=flat" alt="hmwarie" /> </p>
 
+<!-- text -->
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=15&pause=1000&color=FEBE00&center=true&repeat=false&width=435&height=35&lines=rip+mobile+view;" alt="rip mobile view"/>
+
 </div>
 
 <!-- eevee -->
