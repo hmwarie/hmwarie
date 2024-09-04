@@ -2,7 +2,7 @@
 
 <br>
 <!-- text -->
-<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&lines=welcome,+developers!" alt="name"/> <br>
+<img src="https://readme-typing-svg.demolab.com?font=VT323&size=30&pause=1000&color=FEBE00&center=true&width=435&height=60&lines=welcome,+developer!" alt="name"/> <br>
 
 <!-- sunflower -->
 <img src="https://github.com/user-attachments/assets/68d9caff-ee6b-41c8-abff-2badc2573f88" width="80" align="left"/>
