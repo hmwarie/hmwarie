@@ -76,6 +76,14 @@
 
 <br><br>
 
+<!-- stats -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hmwarie&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=falsed&rank_icon=github" height="150" alt="stats graph"/>
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hmwarie&locale=en&hide_title=false&layout=compact&card_width=200&langs_count=5&theme=react&hide_border=false" height="150" alt="languages graph"/> -->
+</div>
+
+<br>
+
 <!-- spotify -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=2a3fv6oxbcw7kxvk9izm8tabz&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=2a3fv6oxbcw7kxvk9izm8tabz&redirect=true)
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hmwarie&label=Profile%20views&color=0e75b6&style=flat" alt="hmwarie" /> </p>
