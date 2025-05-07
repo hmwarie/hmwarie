@@ -57,19 +57,16 @@
 
   <img alt="svelte" src="https://img.shields.io/badge/Svelte-%23f1413d.svg?logo=svelte&logoColor=white"/>
   <img alt="tailwind" src="https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white"/>
-  
-  <img alt="eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white"/>
-  <img alt="sublime" src="https://img.shields.io/badge/Sublime%20Text-%23575757.svg?logo=sublime-text&logoColor=important"/>
-  <img alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
+  <img alt="nextjs" src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"/>
+  <img alt="react" src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB"/>
+  <img alt="shadcn" src="https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff"/>
 
+  <img alt="vscode" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white"/>
   
-  <img alt="c" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"/>
   <img alt="css" src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"/>
   <img alt="html" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>
-  <img alt="java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>
   <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"/>
   <img alt="python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"/>
-  <img alt="r" src="https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white"/>
 </p>
 
 ---
