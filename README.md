@@ -30,7 +30,7 @@
 </div>
 
 <!-- personal information, space, text -->
-<img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="25"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&height=170&lines=i'm+currently+working+on%3A+proj.+face,+and+cmsc+128;i'm+currently+learning%3A+comsci;personal+projects%3A+birthday+cards;ask+me+about%3A+adobe+photoshop+or+figma;hobbies%3A+singing%2C+drawing%2C+and+reading+fiction;fun+fact%3A+i+like+creating+digi+and+tradi+art+%3C3)](https://git.io/typing-svg)
+<img src="https://github.com/user-attachments/assets/2398ea72-16c0-4eea-a8c2-d9ca87f2bad9" width="25"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&duration=800&pause=20&color=ADD8E6&vCenter=true&multiline=true&repeat=false&height=170&lines=i'm+currently+working+on%3A+project+face+and+acss;i'm+currently+learning%3A+comsci;personal+projects%3A+birthday+cards;ask+me+about%3A+adobe+photoshop+or+figma;hobbies%3A+singing%2C+drawing%2C+and+reading+fiction;fun+fact%3A+i+like+creating+digi+and+tradi+art+%3C3)](https://git.io/typing-svg)
 
 ---
 
